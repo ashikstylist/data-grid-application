@@ -26,6 +26,17 @@ Supports editable cells, range selection, copy/paste, drag-resize, and dynamic r
 - **Reusable types:** Types are declared once and implemented strictly.
 
 ---
+## Grid Data Model
+The grid is represented as a 2D array of strings:
+
+```ts
+type GridType = string[][];
+[
+  ["A1", "B1", "C1"],
+  ["A2", "B2", "C2"],
+  ["A3", "B3", "C3"],
+]
+```
 ## Project Structure
 
 - **src/**
@@ -47,4 +58,7 @@ npm install
 npm run dev
 
 ```
+## Live Demo
+
+Try it out here: [https://data-grid-application.vercel.app/](https://data-grid-application.vercel.app/)
 
