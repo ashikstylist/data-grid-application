@@ -1,5 +1,5 @@
 # Data Grid Application
-A lightweight **Excel-like spreadsheet** built with React, TailwindCSS, Typescript and Nanostores.  
+A lightweight **Excel-like spreadsheet** built with React, Vite, TailwindCSS, Typescript and Nanostores.  
 Supports editable cells, range selection, copy/paste, drag-resize, and dynamic rows/columns with persistent storage.
 
 ---
