@@ -37,7 +37,7 @@ Supports editable cells, range selection, copy/paste, drag-resize, and dynamic r
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/ashikstylist/data-grid-application.git
 cd data-grid-application
 
 # Install dependencies
